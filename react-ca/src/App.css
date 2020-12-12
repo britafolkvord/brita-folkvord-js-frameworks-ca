@@ -1,0 +1,36 @@
+.heading {
+  margin-top: 32px;
+}
+
+Form {
+  margin-top: 32px;
+}
+
+.search {
+  margin: 24px 0;
+}
+
+.card {
+  margin-bottom: 16px;
+}
+
+.card-img-top {
+  max-height: 150px;
+  width: auto;
+}
+
+.btn {
+  margin-top: 16px;
+}
+
+.details {
+  margin-top: 24px;
+}
+
+.detail-image img {
+  width: 100%;
+}
+
+.detail-info {
+  width: 100%;
+}
